@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '7.0'
 
   s.dependency 'CocoaLumberjack/Default', '~> 3.0'
-  s.dependency 'Crashlytics'
+  s.dependency 'Firebase/Crashlytics'
   
 
 end
